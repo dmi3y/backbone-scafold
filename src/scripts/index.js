@@ -1,4 +1,4 @@
 /**
  * @module App bootstrapper
  */
- alert('hi')
+ window.alert('hi')
