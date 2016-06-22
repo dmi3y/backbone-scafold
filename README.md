@@ -32,8 +32,8 @@ Watchers commands, has to be executed each in separate terminal.
 
 Unit tests with mocha and chai with [karma][karma].
 
-- 'npm run test' - single run
-- 'npm run test-ci' - continuous intergation mode
+- `npm run test` - single run
+- `npm run test-ci` - continuous intergation mode
 
 ### Documentation
 
