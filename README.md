@@ -1,4 +1,4 @@
-# Something on Backbone
+# Something on Backbone [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## Develop guide
 
@@ -11,7 +11,7 @@
 
 ### Code conventions
 
-- [Standardjs][lint] for JavaScript linting.
+- [Standard][lint] style for JavaScript linting.
 - ES6 syntax for JavaScript through Babel (plus polifyls).
 - Sass as css preprocessor wiht postcss transformations:
     - [Autoprefixer][autoprefixer].
@@ -37,7 +37,7 @@ Unit tests with mocha and chai with [karma][karma].
 
 ### Documentation
 
-Use [Jsdocs][jsdocs] notations for javascript and [Sass Doc][sassdoc] notations for sass.
+Use [JSDocs][jsdocs] notations for javascript and [SassDoc][sassdoc] notations for sass.
 
 [lint]: http://standardjs.com/rules.html
 [karma]: https://karma-runner.github.io/0.13/index.html
