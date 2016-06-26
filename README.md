@@ -1,4 +1,5 @@
-# Something on Backbone [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)![dependency status](https://david-dm.org/dmi3y/backbone-scafold.svg)
+# Something on Backbone
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)   ![dependency status](https://david-dm.org/dmi3y/backbone-scafold.svg)
 
 ## Develop guide
 
